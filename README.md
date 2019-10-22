@@ -1,2 +1,2 @@
 # Timetable
-This is my awesome dope class timetable built with pure html
+This is my more awesome and doper class timetable built with pure html
